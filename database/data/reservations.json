@@ -1,5 +1,4 @@
-{
-"reservations": [
+[
 	{
 		"id" : 213,
 		"user_plan_id" : 52,
@@ -39,4 +38,4 @@
 		"updated_at" : "2021-12-17 19:38:38",
 		"deleted_at" : null
 	}
-]}
+]

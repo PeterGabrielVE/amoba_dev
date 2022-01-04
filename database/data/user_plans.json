@@ -1,5 +1,4 @@
-{
-"user_plans": [
+[
 	{
 		"id" : 52,
 		"user_id" : 35,
@@ -33,4 +32,4 @@
 		"credit_confirm_canceled" : null,
 		"cost_center_id" : 0
 	}
-]}
+]

@@ -1,5 +1,4 @@
-{
-"services": [
+[
 	{
 		"id" : 26257972,
 		"external_id" : "-26257972",
@@ -6800,4 +6799,5 @@
 		"itinerary_drivers" : "Torres Venecianas - Plaza España,Avinguda de la Reina Maria Cristina 5 -- DECATHLON Plataforma Logística,Carrer de Ca l'Arana, el Prat de Llobregat\nTransfer sólo ida\n\n20\/01\/2020 - 18:00:28 - Parada 1 -- Torres Venecianas - Plaza España,Avinguda de la Reina Maria Cristina 5\n20\/01\/2020 - 18:12:28 - Parada 2 -- Parada Bus Av. Granvia - Rambla Marina,Parque de Bellvitge, l'Hospitalet de Llobregat\n20\/01\/2020 - 18:21:28 - Parada 3 -- Empresa First Stop,Avinguda de la Verge de Montserrat 10, el Prat de Llobregat\n20\/01\/2020 - 18:36:28 - Parada 4 -- DECATHLON Plataforma Logística,Carrer de Ca l'Arana, el Prat de Llobregat",
 		"cost_if_externalized" : null
 	}
-]}
+]
+
