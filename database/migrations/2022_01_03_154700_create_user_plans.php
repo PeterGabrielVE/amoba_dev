@@ -18,7 +18,7 @@ class CreateUserPlans extends Migration
             $table->integer('user_id')->nullable();
             $table->integer('currency_id')->nullable();
             $table->integer('next_user_plan_id')->nullable();
-            $table->datatime('start_timestamp')->nullable();
+            $table->datetime('start_timestamp')->nullable();
             $table->datetime('end_timestamp')->nullable();
             $table->datetime('renewal_timestamp')->nullable();
             $table->integer('renewal_price')->nullable();
